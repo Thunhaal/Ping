@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sagarrryadavv/Ping/main/asset/feature_graphic.png" />
+
 
 <h1>PING</h1>
 
@@ -22,7 +22,7 @@ A real-time, ephemeral social chat app for classrooms, colleges, hostels, office
 </a>
 
 </div>
-
+<img src="https://raw.githubusercontent.com/sagarrryadavv/Ping/main/asset/feature_graphic.png" />
 ---
 
 ## 🚀 What is Ping?
