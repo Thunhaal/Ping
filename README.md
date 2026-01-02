@@ -6,7 +6,7 @@
 
 <b>Talk now. The moment disappears.</b>  
 <br/>
-A real-time, ephemeral social chat app for classrooms, colleges, hostels, offices, and communities — built for live conversations with no history, no pressure, and no permanent record.
+A real-time, ephemeral social chat app for classrooms, colleges, hostels, offices, and communities — built for live conversations with **No chat history — ever**, no pressure, and no permanent record.
 
 <br/><br/>
 
@@ -39,6 +39,23 @@ Built for:
 - 🎉 Events & meetups
 
 ---
+## 🎯 Why Ping?
+
+> **Most chat apps are built for permanence.  
+> Ping is built for presence.**
+
+Traditional messaging platforms create pressure:
+- Reply later
+- Messages stay forever
+- Conversations feel formal
+
+**Ping removes that pressure.**
+
+It enables spontaneous, real-time conversations that disappear once the moment is over.
+
+✨ *Say it. Experience it. Let it go.*
+
+---
 
 ## ✨ Core Features
 
@@ -66,6 +83,24 @@ All messages are deleted automatically.
 
 ---
 
+## 🚧 Development Status
+
+🟢 **Active Development**
+
+Ping is currently under active development.
+
+- UI, flows, and core logic are implemented privately  
+- This repository focuses on **documentation, assets, and structure**
+- Source code will be published after initial stabilization
+
+💡 Early contributors can already help with:
+- Documentation
+- UX feedback
+- Feature discussions
+- Testing ideas
+
+---
+
 ## 🧱 Architecture & Dependencies
 
 <p align="center">
@@ -82,6 +117,20 @@ All messages are deleted automatically.
 | Notifications | Firebase Cloud Messaging |
 | State | setState |
 | Avatars | SVG-based system |
+
+---
+
+## 🗺 Roadmap
+
+- [x] Core idea & concept validation  
+- [x] UI design & visual assets  
+- [x] Architecture planning  
+- [ ] Open-source code release  
+- [ ] Closed beta testing  
+- [ ] Performance optimization  
+- [ ] Public launch  
+
+📌 *Roadmap may evolve based on feedback.*
 
 ---
 
@@ -139,11 +188,34 @@ Ping is built to **reduce social pressure**, not increase it.
 
 ## 🤝 Contributing
 
-Contributions are welcome.
+We welcome contributions, especially during this early phase.
 
-- Fork the repo
-- Create a feature branch
-- Submit a PR
+### You can help with:
+- 📄 Documentation improvements
+- 🎨 UX / UI feedback
+- 💡 Feature suggestions
+- 🧪 Testing ideas and edge cases
+
+### How to Contribute
+1. Fork the repository  
+2. Create a new branch (`feature/docs-improvement`)  
+3. Commit your changes  
+4. Open a Pull Request with a clear description  
+
+All constructive contributions are appreciated.
+
+---
+
+## 💬 Feedback & Ideas
+
+Ping is built around **people**, not just features.
+
+If you have ideas, suggestions, or feedback:
+- Open an issue
+- Start a discussion
+- Share UX thoughts
+
+Your input helps shape Ping’s future.
 
 ---
 
