@@ -40,6 +40,24 @@ Built for:
 
 ---
 
+## 🎯 Why Ping?
+
+> **Most chat apps are built for permanence.  
+> Ping is built for presence.**
+
+Traditional messaging platforms create pressure:
+- Reply later
+- Messages stay forever
+- Conversations feel formal
+
+**Ping removes that pressure.**
+
+It enables spontaneous, real-time conversations that disappear once the moment is over.
+
+✨ *Say it. Experience it. Let it go.*
+
+---
+
 ## ✨ Core Features
 
 - ⚡ **Live Ping Rooms** (temporary chat spaces)
